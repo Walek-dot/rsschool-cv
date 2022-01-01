@@ -54,6 +54,19 @@ for (let i of roadMines) {
 }
 
 ```
-[https://github.com/Walek-dot/webproject/tree/master/newwebproject](work on banners)
+[work on banners]("https://github.com/Walek-dot/webproject/tree/master/newwebproject")
 
-[https://github.com/Walek-dot/gulp-and-speedometer](work on speedometer)
+[work on speedometer]("https://github.com/Walek-dot/gulp-and-speedometer")
+
+***
+##Courses
+* HTML and CSS on the HtmlAcademy (compleate)
+* JS on the [learnjavascript]("https://learn.javascript.ru/") (in progres)
+
+***
+##Languages
+
+* English - A2  preIntermediat (I continue to study on courses Duolinga and  use Googletranslate )
+* Polish - B1 (in progress and communication with a native speaker)
+* Spanish - A1 (communication with a native speaker)
+* Russian - Native
