@@ -78,6 +78,8 @@ header {
 .main-container {
     display: flex;
     flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .block-contacts {
@@ -99,13 +101,7 @@ header {
 }
   
 .section {
-    width: 28%;
-    margin-left: 18%;
-}
-
-.section-contact{
-    width: 25%;
-    text-align: center;
+    width: 50%;
 }
 
 .section-title {
@@ -116,10 +112,6 @@ header {
     color: gray;
     text-shadow: 1px 1px 2px indianred;
 }
-
-.sectio {
-    margin-left: 5%;
-} 
 
 .link {
     text-decoration: none;
@@ -143,6 +135,7 @@ header {
 }
 
 .footer-info {
+    display: contents;
     margin-left: 5%;
 }
 
@@ -150,6 +143,7 @@ header {
     width: 90px;
     height: 45px;
     border-radius: 8px;
+    margin-top: 3px;
 }
 
 .footer-link {
