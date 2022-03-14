@@ -23,6 +23,7 @@ Novice programmer, my level of knowledge in IT technologies is still very low. C
 * JS(basics)
 * PUG
 * Gulp
+* Gsap
 * Webpack
 * Figma
 * Photoshop
@@ -61,6 +62,7 @@ for (let i of roadMines) {
 ***
 ##Courses
 * HTML and CSS on the HtmlAcademy (compleate)
+* RollingScopesPre-School [RollingScopesPre-School]("https://rs.school/") (compleate)
 * JS on the [learnjavascript]("https://learn.javascript.ru/") (in progres)
 
 ***
