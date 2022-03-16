@@ -18,7 +18,7 @@ Novice programmer, my level of knowledge in IT technologies is still very low. C
 ##Skills
 
 * HTML
-* CSS/SASS/SCSS/LESS
+* CSS/SASS/SCSS
 * BEM
 * JS(basics)
 * PUG
