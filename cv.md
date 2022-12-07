@@ -4,7 +4,7 @@
 
 ##Contacts
 Location: Saint-Petersburg Russia
-Phone: +7 951 6500081
+Phone: +7&nbsp;951&nbsp;6500081
 E-mail: Chertograd114@gmail.com
 Telegram: @Walentin_113
 Discord: Walentin(Walek-dot)#7002
