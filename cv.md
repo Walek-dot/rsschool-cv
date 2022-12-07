@@ -45,7 +45,7 @@ for (let i of roadMines) {
 
      if (i === 'true') {
        --trashChans;
-       if(trashChans > 0)
+       if(trashChans &gt; 0)
        console.log('танк подбит');
        else  {
          console.log('танк уничтожен');
